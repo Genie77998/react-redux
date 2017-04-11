@@ -1,0 +1,8 @@
+const SET_MSGTIP = 'SET_MSGTIP'
+const HIDE_MSGTIP = 'HIDE_MSGTIP'
+
+export {
+	
+	SET_MSGTIP,
+	HIDE_MSGTIP
+}

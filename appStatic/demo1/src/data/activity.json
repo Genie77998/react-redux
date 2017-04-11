@@ -1,0 +1,31 @@
+[{
+    "res": "750,579",
+    "rsrc": "src/images/banner_low_01.jpg",
+    "osrc": "src/images/banner_01.jpg"
+}, {
+    "res": "750,791",
+    "rsrc": "src/images/img_low_01.jpg",
+    "osrc": "src/images/img_01.jpg"
+}, {
+    "res": "750,471",
+    "rsrc": "src/images/img_low_02.jpg",
+    "osrc": "src/images/img_02.jpg"
+}, {
+    "res": "750,610",
+    "rsrc": "src/images/img_low_03.jpg",
+    "osrc": "src/images/img_03.jpg",
+    "isLink" : true
+}, {
+    "res": "750,365",
+    "rsrc": "src/images/img_low_04.jpg",
+    "osrc": "src/images/img_04.jpg"
+}, {
+    "res": "750,639",
+    "rsrc": "src/images/img_low_05.jpg",
+    "osrc": "src/images/img_05.jpg"
+}, {
+    "res": "750,717",
+    "rsrc": "src/images/img_low_06.jpg",
+    "osrc": "src/images/img_06.jpg",
+    "isLink" : true
+}]
